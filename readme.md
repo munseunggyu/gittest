@@ -42,5 +42,5 @@ export default PostUploadPreview;
 
 ```js
 // ./src/components/PostUploadForm/postUploadForm.js
-const [postUploadPreviewEl, imgCancelBtn] = postUploadPreview.initialize();
+const [postUploadPreviewEl, imgCancelBtn] = postUploadPreview.initialize(); // 구조분해할당으로 변수에 할당
 ```
