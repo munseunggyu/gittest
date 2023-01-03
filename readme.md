@@ -382,7 +382,7 @@ gitGraph
         </tr>
         <tr></tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210372765-ecce114e-cdc6-4a49-8a5e-a39fff9b52e3.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210386236-16b67df4-37bd-4aa2-9d4d-fcd3d353e779.gif"
                     alt=""></td>
             <td>triPlus 피드<ul>
                     <li>팔로우한 유저가 없다면 유저를  검색하는 문구와 검색하기 버튼이 나옵니다.</li>
@@ -416,7 +416,7 @@ gitGraph
             <th>설명</th>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210373792-c364142c-31dc-44c9-aef5-32f3e5037717.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210386641-d80c3619-b6e7-4ac0-8465-cc63a3939ef7.gif"
                     alt=""></td>
             <td>검색<ul>
                     <li>검색창에 검색어를 입력하면 0.3초 후 해당 유저들의 데이터를 보여줍니다.</li>
@@ -425,7 +425,7 @@ gitGraph
             </td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210374220-1ccea890-41f8-47e8-a276-1eac5342f9e2.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210386929-74356ac1-f76a-41b2-9e73-83158eaed0c0.gif"
                     alt=""></td>
             <td>팔로우 및 팔로잉<ul>
                     <li>팔로우 버튼을 클릭하면 해당 유저를 팔로우합니다.</li>
@@ -434,7 +434,7 @@ gitGraph
             </td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210375005-627b1937-3963-4f1f-a49f-a37d8d5ad5a8.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210387143-1d1919fe-f5a6-4617-881d-fc1c9aadab58.gif"
                     alt=""></td>
             <td>프로필<ul>
                     <li>하단 메뉴바에서 프로필을 클릭하면 자신의 프로필을 보여줍니다.</li>
@@ -514,7 +514,7 @@ gitGraph
             </td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210375320-69236ce6-cc29-4e73-8fbb-cc7e403e036d.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210387352-eaf0cf2d-e602-46b3-863a-c0f2d204d776.gif"
                     alt=""></td>
             <td>좋아요<ul>
                     <li>게시글에 좋아요 버튼을 클릭하면 좋아요 수가 증가합니다.</li>
@@ -778,8 +778,8 @@ export const useObserver = (reloadRef, pageNum) => {
 
       <img width="147" alt="Pasted Graphic 1" src="https://user-images.githubusercontent.com/84954439/210384675-496f8d34-8eb0-4e3c-901a-d061d5f69795.png">
 
-
   - svg
+
       <img width="146" alt="Pasted Graphic 8" src="https://user-images.githubusercontent.com/84954439/210384589-22a64060-1fec-42ab-8a5a-713b0df8b13b.png">
 
 <br>
