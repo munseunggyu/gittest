@@ -425,7 +425,7 @@ gitGraph
             </td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/84954439/210386929-74356ac1-f76a-41b2-9e73-83158eaed0c0.gif"
+            <td><img src="https://user-images.githubusercontent.com/84954439/210387653-c0b22012-d48e-4072-996b-3c3f2b4f7d5a.gif"
                     alt=""></td>
             <td>팔로우 및 팔로잉<ul>
                     <li>팔로우 버튼을 클릭하면 해당 유저를 팔로우합니다.</li>
