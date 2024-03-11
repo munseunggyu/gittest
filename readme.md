@@ -5,8 +5,8 @@
 2. react-query -
    성능 향상과 네트워크 요청 감소를 위해 자동 데이터 캐싱 및 인터벌 쿼리 기능을 제공하는 react-query를 선택했습니다.
 
-3. useContext API -
-   프로젝트의 무게를 가볍게 유지하고 외부 라이브러리 의존성을 최소화하기 위해 React에 내장된 useContext API를 선택했습니다.
+3. Context API -
+   프로젝트의 무게를 가볍게 유지하고 외부 라이브러리 의존성을 최소화하기 위해 React에 내장된 Context API를 선택했습니다.
 
 ## 개발이슈
 
